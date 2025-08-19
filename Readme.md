@@ -23,11 +23,10 @@ The solutions are structured so they can be:
 
 ```text
 Leetcode_Solutions/
-├── Leetcode/
-│   ├── 0001-two-sum.cpp
-│   ├── 0053-maximum-subarray.cpp
-│   ├── 0118-pascals-triangle.cpp
-│   └── ...
+├── 0001-two-sum.cpp
+├── 0053-maximum-subarray.cpp
+├── 0118-pascals-triangle.cpp
+└── ...
 └── README.md   # Project documentation
 
 ## 🔹 Goals
